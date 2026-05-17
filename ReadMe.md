@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a junior backend engineer currently working on developing my skills in native and web app development. I am currently practicing containerization, scaling, CI/CD automation and AI utilization by working on personal projects that solve real problems I face.
+I'm a junior backend engineer currently working on developing my skills in native and web app development. I am currently learning containerization, scaling, CI/CD automation and AI utilization by working on personal projects that solve real problems I face.
 
 
 ## 🌐 Socials:
