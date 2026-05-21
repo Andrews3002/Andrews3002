@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a junior backend engineer currently working on developing my skills in native and web app development. I am currently learning containerization, scaling, CI/CD automation and AI utilization by working on personal projects that solve real problems I face.
-
+I'm an IT specialist with experience in website and desktop native application development. I am currently working on developing my skills in database administration using SQL and PL/SQL with PostgreSQL.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexangelo-andrews-8a40062a0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexangeloandrews@gmail.com) 
