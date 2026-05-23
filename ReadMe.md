@@ -21,7 +21,7 @@ I'm a final year computer science student with experience in website and desktop
 ![Vue](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js)
 ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite)
 
-# ORMS
+# ORMs
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy)
 ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma)
 
