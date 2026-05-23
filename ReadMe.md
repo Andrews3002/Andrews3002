@@ -12,7 +12,7 @@ I'm a final year computer science student with experience in website and desktop
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
 ![Selenium](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript) #
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
