@@ -5,11 +5,14 @@ I'm a final year computer science student with experience in website and desktop
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexangelo-andrews-8a40062a0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexangeloandrews@gmail.com) 
 
 # 💻 Tech Stacks:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
-#
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Jinja](https://img.shields.io/badge/Jinja-000000?style=for-the-badge&logo=jinja)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
+![Selenium](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium)
+
+# ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
@@ -17,11 +20,11 @@ I'm a final year computer science student with experience in website and desktop
 ![Vue](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js)
 ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite)
 
-#ORMS
+# ORMS
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy)
 ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma)
 
-#RDBMS
+# RDBMS
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
 ![sqlite](https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite)
 
