@@ -8,6 +8,7 @@ I'm a final year computer science student with experience in website and desktop
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django)
 ![Jinja](https://img.shields.io/badge/Jinja-000000?style=for-the-badge&logo=jinja)
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
 ![Selenium](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium)
