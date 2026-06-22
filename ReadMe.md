@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a final year computer science student with experience in website and desktop native application development. I am currently working on developing my skills in database administration using SQL and PL/SQL with PostgreSQL.
+I'm a final year computer science student with experience in website and desktop native application development. I am currently working on developing my skills in database administration using SQL and PL/SQL with Oracle SQL Developer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexangelo-andrews-8a40062a0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexangeloandrews@gmail.com) 
