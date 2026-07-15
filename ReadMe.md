@@ -8,10 +8,10 @@ I'm a final year computer science student with experience in website and desktop
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django)
-![Jinja](https://img.shields.io/badge/Jinja-000000?style=for-the-badge&logo=jinja)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi)
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
 ![Selenium](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=beautifulsoup)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
 
@@ -26,6 +26,8 @@ I'm a final year computer science student with experience in website and desktop
 ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma)
 
 # RDBMS
+![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle)
+![PL/SQL](https://img.shields.io/badge/PLSQL-000000?style=for-the-badge&logo=plsql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
 ![sqlite](https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite)
 
