@@ -7,8 +7,8 @@ I'm a final year computer science student with experience in website and desktop
 # 💻 Tech Stacks:
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
 ![Selenium](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=beautifulsoup)
